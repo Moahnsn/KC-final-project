@@ -4,31 +4,21 @@
 
 <div dir="rtl">
   
-### اسم الطالب
+### محمد محمد أحمد
 
 
-### اسم المشروع
+### تعلم البرمجه
 
 
-# شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+# تعلم البرمجه وتعلم بعض لغات البرمجه وهناك فيديوهات تعليميه ومشريع كثيره ومقدمه عن البرمجه
+كيفيت اضفت dropdown menuو search bar الحل صنعت bottons لتنقل في الصفحه او لصفحه اخرى
 
 
-# الأعمال المستقبلية
+#  اضفة لغات برمجه اكثر وsearchbar and drop down menu
 
 
 </div>
 
-> Fill out project information in English ⬇️
-### Student Name
 
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 

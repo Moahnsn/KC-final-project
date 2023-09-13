@@ -1,0 +1,214 @@
+
+
+  header {
+    background-color:#000016;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px ;
+}
+
+
+.navigation a{
+    color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+}
+
+.navigation a:hover{
+    color: #601cfc;
+}
+
+section {
+    padding: 100px 200px;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(./05c9bc30-d2cc-4f76-a01b-200f280305dc.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.main h2 {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+
+.main h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    color: #4e9eff;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+.main h3 {
+    color: #fff;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+.main-btn {
+  color: #fff;
+  background-color: #3a6cf4;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: 600;
+  display: inline-block;
+  padding: 0.9375em 2.1875em;
+  letter-spacing: 1px;
+  border-radius: 15px;
+  margin-bottom: 40px;
+  transition: 0.7s ease;
+}
+
+.main-btn:hover {
+  background-color: #0a49f6;
+  transform: scale(1.1);
+}
+
+.hover:hover{
+  text-transform: uppercase;
+  text-decoration: none;
+ background-color: #4e9eff;
+  transform: scale(1.1);
+  
+}
+
+.hover2:hover{
+  color: blue;
+  text-transform: uppercase;
+  text-decoration: none;
+ background-color: #052664;
+  transform: scale(1.1);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  color: #3a6cf4;
+  font-size: 2.2em;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+ 
+
+.معلومات عن البرمجه{
+  color: #000016;
+}
+
+
+
+
+
+.footer .social-icons a{
+  font-size: 1.3em;
+  padding: 0 12px 0 0;
+}
+
+@media (max-width:1023px){
+  header{
+      padding: 12px 20px;
+  }
+
+  .navigation a{
+      padding-left: 10px;
+  }
+
+  .title{
+      font-size: 1.8em;
+  }
+
+  section{
+      padding: 80px 20px;
+  }
+
+  .main-content h2{
+      font-size: 1em;
+  }
+
+  .main-content h3{
+      font-size: 1.6em;
+  }
+
+  .content{
+      flex-direction: column;
+      align-items: center;
+  }
+
+}
+
+@media (max-width:641px){
+  body{
+      font-size: 12px;
+  }
+
+  .main-content h2{
+      font-size: 0.8em;
+  }
+
+  .main-content h3{
+      font-size: 1.4em;
+  }
+}
+
+.hi{
+
+  background-color: #000016;
+}
+
+.فيديوهات{
+
+  flex-direction: row-reverse;
+  
+  background-attachment: fixed;
+
+ 
+  align-items: center;
+ }
+
+.hover2:hover{
+  color: blue;
+  background-color: #601cfc;
+
+} 
+  
+
+iframe{
+  margin: 500;
+}
+
+
+iframe:hover {
+  width: 500px;
+}
+
+
+.color{
+  color: #fff;
+}
+.backgroundcolor{
+  background-color: #000016;
+}
